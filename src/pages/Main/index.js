@@ -17,7 +17,7 @@ export default function Main(){
         translationY: translateY
         }
       }
-    ], { useNativeDriver: true }
+    ], { useNativeDriver: true } 
   )
 
   function handlerEvent(event){
